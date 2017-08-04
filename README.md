@@ -1,2 +1,3 @@
 # inertia_estimation
-ROS package for estimating mass and inertia of objects by pushing and measuring F/T and object displacement.
+
+ROS package for estimating an object's mass and rotational inertia by pushing it and measuring F/T signals and dispacement.
